@@ -27,7 +27,7 @@ You can input the number of shares you own for a list of predefined stocks, and 
 ---
 
 ## 📽️ Demo Video
-🔗 Watch Demo on LinkedIn (link will be added soon)
+🔗 Watch Demo on LinkedIn (https://www.linkedin.com/posts/mythri-tadikonda-82308234a_codealpha-pythoninternship-stockportfolio-activity-7337885472330842112-SyO1?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFc4OhsBb_gpnQHhjODr8VKJ9eQrypsHVlk)
 
 ---
 
